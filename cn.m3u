@@ -1,0 +1,136 @@
+#EXTM3U
+#PLAYLIST: IPTV Channel List
+#AUTHOR: HeL.N.E. Team
+#DATE: 2026-09-21 18:36:00
+#EXTINF:-1 tvg-chno="301" tvg-id="CCTV1.cn@HD" tvg-name="CCTV-1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视频道",CCTV-1
+http://198.204.228.26/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-chno="302" tvg-id="CCTV2.cn@HD" tvg-name="CCTV-2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="央视频道",CCTV-2
+http://116.128.243.121:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-chno="303" tvg-id="CCTV3.cn@HD" tvg-name="CCTV-3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="央视频道",CCTV-3
+http://173.208.212.130:8181/1080p/cctv3.m3u8
+#EXTINF:-1 tvg-chno="304" tvg-id="CCTV4Asia.cn@SD" tvg-name="CCTV-4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="央视频道",CCTV-4
+http://107.150.60.122/live/cctv4hd.m3u8
+#EXTINF:-1 tvg-chno="305" tvg-id="CCTV4Europe.cn@SD" tvg-name="CCTV-4Europe" tvg-logo="https://i.imgur.com/HGLFdfk.png" group-title="央视频道",CCTV-4 Europe
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 tvg-chno="306" tvg-id="CCTV4K.cn@HD" tvg-name="CCTV-4K" tvg-logo="https://i.imgur.com/fxusYlX.png" group-title="央视频道",CCTV-4K
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4k
+#EXTINF:-1 tvg-chno="307" tvg-id="CCTV5.cn@HD" tvg-name="CCTV-5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="运动频道",CCTV-5
+http://120.238.94.82:9901/tsfile/live/1030_1.m3u8
+#EXTINF:-1 tvg-chno="308" tvg-id="CCTV5+.cn@HD" tvg-name="CCTV-5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" group-title="运动频道",CCTV-5+
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+#EXTINF:-1 tvg-chno="309" tvg-id="CCTV6.cn@HD" tvg-name="CCTV-6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="电影频道",CCTV-6
+http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 tvg-chno="310" tvg-id="CCTV7.cn@SD" tvg-name="CCTV-7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="央视频道",CCTV-7
+http://198.204.228.26/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-chno="311" tvg-id="CCTV8.cn@SD" tvg-name="CCTV-8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV8.png" group-title="央视频道",CCTV-8
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 tvg-chno="312" tvg-id="CCTV8K.cn@HD" tvg-name="CCTV-8K" tvg-logo="https://i.imgur.com/fxVPMJF.png" group-title="央视频道",CCTV-8K
+http://192.151.150.154/live/cctv8k.m3u8
+#EXTINF:-1 tvg-chno="313" tvg-id="CCTV9.cn@SD" tvg-name="CCTV-9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="央视频道",CCTV-9
+http://107.150.60.122/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-chno="314" tvg-id="CCTV10.cn@SD" tvg-name="CCTV-10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="央视频道",CCTV-10
+http://198.204.228.26/live/cctv10hd.m3u8
+#EXTINF:-1 tvg-chno="315" tvg-id="CCTV11.cn@SD" tvg-name="CCTV-11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV11.png" group-title="央视频道",CCTV-11
+http://204.12.221.218:8181/3m1080p/cctv11.m3u8
+#EXTINF:-1 tvg-chno="316" tvg-id="CCTV12.cn@SD" tvg-name="CCTV-12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="央视频道",CCTV-12
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 tvg-chno="317" tvg-id="CCTV13.cn@HD" tvg-name="CCTV-13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="央视频道",CCTV-13
+http://go.bkpcp.top/mg/cctv13
+#EXTINF:-1 tvg-chno="318" tvg-id="CCTV14.cn@HD" tvg-name="CCTV-14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV14.png" group-title="卡通频道",CCTV-14
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
+#EXTINF:-1 tvg-chno="319" tvg-id="CCTV15.cn@SD" tvg-name="CCTV-15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="央视频道",CCTV-15
+http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 tvg-chno="320" tvg-id="CCTV16.cn@HD" tvg-name="CCTV-16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV-16
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-chno="321" tvg-id="CCTV17.cn@HD" tvg-name="CCTV-17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="央视频道",CCTV-17
+http://74.91.26.218:82/live/cctv17hd.m3u8
+#EXTINF:-1 tvg-chno="322" tvg-id="CCTVPlus1.cn@SD" tvg-name="CCTVPlus1" tvg-logo="https://i.imgur.com/U8d4Is6.png" group-title="新闻",CCTV+ 1
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="323" tvg-id="CCTVPlus2.cn@SD" tvg-name="CCTVPlus2" tvg-logo="https://i.imgur.com/qSg862A.png" group-title="新闻",CCTV+ 2
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="324" tvg-id="CCTVBilliards.cn@HD" tvg-name="CCTVBilliards" tvg-logo="https://i.imgur.com/WK3keM9.png" group-title="体育",CCTV-Billiards
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+#EXTINF:-1 tvg-chno="325" tvg-id="CCTVCultureofQuality.cn@SD" tvg-name="CCTVCultureofQuality" tvg-logo="https://i.imgur.com/Paig8gG.png" group-title="综合",CCTV-Culture of Quality
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+#EXTINF:-1 tvg-chno="326" tvg-id="CCTVGolfTennis.cn@HD" tvg-name="CCTVGolfTennis" tvg-logo="https://i.imgur.com/iqJJTmH.png" group-title="体育",CCTV-Golf & Tennis
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-chno="327" tvg-id="CCTVHealth.cn@HD" tvg-name="CCTVHealth" tvg-logo="https://i.imgur.com/AzpRtCz.png" group-title="生活",CCTV-Health
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+#EXTINF:-1 tvg-chno="328" tvg-id="CCTVNostalgiaTheater.cn@HD" tvg-name="CCTVNostalgiaTheater" tvg-logo="https://i.imgur.com/TVs9PBc.png" group-title="经典",CCTV-Nostalgia Theater
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-chno="329" tvg-id="CCTVStormFootball.cn@HD" tvg-name="CCTVStormFootball" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="体育",CCTV-Storm Football
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 tvg-chno="330" tvg-id="CCTVStormMusic.cn@HD" tvg-name="CCTVStormMusic" tvg-logo="https://i.imgur.com/IiiRmrf.png" group-title="音乐",CCTV-Storm Music
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+#EXTINF:-1 tvg-chno="331" tvg-id="CCTVStormTheater.cn@HD" tvg-name="CCTVStormTheater" tvg-logo="https://i.imgur.com/rEttkKm.png" group-title="电影",CCTV-Storm Theater
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-chno="332" tvg-id="CCTVTheFirstTheater.cn@HD" tvg-name="CCTVTheFirstTheater" tvg-logo="https://i.imgur.com/eFxD3hq.png" group-title="电影",CCTV-The First Theater
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-chno="333" tvg-id="CCTVWeaponTechnology.cn@HD" tvg-name="CCTVWeaponTechnology" tvg-logo="https://i.imgur.com/QlF96eS.png" group-title="纪录片",CCTV-Weapon & Technology
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+#EXTINF:-1 tvg-chno="334" tvg-id="CCTVWomensFashion.cn@SD" tvg-name="CCTVWomensFashion" tvg-logo="https://i.imgur.com/FVbP0aP.png" group-title="生活",CCTV-Women's Fashion
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+#EXTINF:-1 tvg-chno="335" tvg-id="CCTVWorldGeography.cn@SD" tvg-name="CCTVWorldGeography" tvg-logo="https://i.imgur.com/V2ncOXi.png" group-title="教育",CCTV-World Geography
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 tvg-chno="336" tvg-id="CNDFilmMiddleSchoolChannel.cn@SD" tvg-name="CNDFilmMiddleSchoolChannel" tvg-logo="https://i.imgur.com/4uG8HsQ.png" group-title="电影",CND Film Middle School Channel
+http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=
+#EXTINF:-1 tvg-chno="337" tvg-id="DragonTVInternational.cn@SD" tvg-name="DragonTVInternational" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="综合",东方卫视国际版
+https://op-group1-swiftservesd-1.dens.tv/s/s29/index.m3u8
+#EXTINF:-1 tvg-chno="338" tvg-id="FujianComprehensiveChannel.cn@SD" tvg-name="FujianComprehensiveChannel" tvg-logo="https://i.imgur.com/rePTGa6.png" group-title="综合",福建综合频道
+http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88
+#EXTINF:-1 tvg-chno="339" tvg-id="GuangdongSatelliteTV.cn@SD" tvg-name="GuangdongSatelliteTV" tvg-logo="https://parco-zh.github.io/demo/guangdong.jpg" group-title="综合",广东卫视
+https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
+#EXTINF:-1 tvg-chno="340" tvg-id="GuangxiVarietyTravelChannel.cn@SD" tvg-name="GuangxiVarietyTravelChannel" tvg-logo="https://www.tvchinese.net/uploads/tv/gxzypd.jpg" group-title="综合",广西综艺旅游频道
+http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-chno="341" tvg-id="GuangzhouTV.cn@SD" tvg-name="GuangzhouTV" tvg-logo="https://i.imgur.com/ff3KQXp.png" group-title="综合",广州电视台
+https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 tvg-chno="342" tvg-id="HarbinComprehensiveNewsChannel.cn@SD" tvg-name="HarbinComprehensiveNewsChannel" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" group-title="新闻",哈尔滨综合新闻频道
+https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
+#EXTINF:-1 tvg-chno="343" tvg-id="HarbinMovieChannel.cn@SD" tvg-name="HarbinMovieChannel" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" group-title="电影",哈尔滨电影频道
+https://stream.hrbtv.net/yspd/playlist.m3u8
+#EXTINF:-1 tvg-chno="344" tvg-id="HebeiTV.cn@SD" tvg-name="HebeiTV" tvg-logo="https://i.imgur.com/Z5Ppzbi.png" group-title="综合",河北卫视
+https://event.pull.hebtv.com/live/live101.m3u8
+#EXTINF:-1 tvg-chno="345" tvg-id="HomePlus.ir@SD" tvg-name="HomePlus" tvg-logo="" group-title="电影",Home Plus
+https://homeplushls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-chno="346" tvg-id="HunanTV.cn@SD" tvg-name="HunanTV" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="综合",湖南卫视
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-chno="347" tvg-id="JiangxiChildrensChannel.cn@SD" tvg-name="JiangxiChildrensChannel" tvg-logo="https://www.tvchinese.net/uploads/tv/jxtv6.jpg" group-title="少儿",江西少儿频道
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
+#EXTINF:-1 tvg-chno="348" tvg-id="JiangxiCityChannel.cn@SD" tvg-name="JiangxiCityChannel" tvg-logo="https://www.tvchinese.net/uploads/tv/jxds.jpg" group-title="综合",江西都市频道
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8
+#EXTINF:-1 tvg-chno="349" tvg-id="JiangxiEconomyLifeChannel.cn@SD" tvg-name="JiangxiEconomyLifeChannel" tvg-logo="https://www.tvchinese.net/uploads/tv/jxtv3.jpg" group-title="财经",江西经济生活频道
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8
+#EXTINF:-1 tvg-chno="350" tvg-id="JiangxiMovieChannel.cn@SD" tvg-name="JiangxiMovieChannel" tvg-logo="https://www.tvchinese.net/uploads/tv/jiangxi.jpg" group-title="电影",江西电影频道
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
+#EXTINF:-1 tvg-chno="351" tvg-id="JiangxiPublicAgricultureChannel.cn@SD" tvg-name="JiangxiPublicAgricultureChannel" tvg-logo="https://www.tvchinese.net/uploads/tv/jxgg.jpg" group-title="综合",江西公共农业频道
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8
+#EXTINF:-1 tvg-chno="352" tvg-id="JilinCityChannel.cn@SD" tvg-name="JilinCityChannel" tvg-logo="https://www.tvchinese.net/uploads/tv/jldspd.jpg" group-title="生活",吉林都市频道
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8
+#EXTINF:-1 tvg-chno="353" tvg-id="JilinLifestyleChannel.cn@SD" tvg-name="JilinLifestyleChannel" tvg-logo="https://www.tvchinese.net/uploads/tv/jlshpd.jpg" group-title="生活",吉林生活频道
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
+#EXTINF:-1 tvg-chno="354" tvg-id="JilinMovieChannel.cn@SD" tvg-name="JilinMovieChannel" tvg-logo="https://www.tvchinese.net/uploads/tv/jlyspd.jpg" group-title="电影",吉林电影频道
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
+#EXTINF:-1 tvg-chno="355" tvg-id="JilinRuralChannel.cn@SD" tvg-name="JilinRuralChannel" tvg-logo="https://www.tvchinese.net/uploads/tv/jlxcpd.jpg" group-title="教育",吉林乡村频道
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
+#EXTINF:-1 tvg-chno="356" tvg-id="KangbaTV.cn@SD" tvg-name="KangbaTV" tvg-logo="https://www.tvchinese.net/uploads/tv/kangbatv.jpg" group-title="综合",康巴卫视
+http://110.185.237.164:8888/hls/30/index.m3u8
+#EXTINF:-1 tvg-chno="357" tvg-id="LanzhouComprehensiveNewsChannel.cn@SD" tvg-name="LanzhouComprehensiveNewsChannel" tvg-logo="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_c2a13a952c0111b21f081d672798c8ed~c5_300x300.jpeg?from=2956013662" group-title="新闻",兰州综合新闻频道
+https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
+#EXTINF:-1 tvg-chno="358" tvg-id="LanzhouCultureTourismChannel.cn@SD" tvg-name="LanzhouCultureTourismChannel" tvg-logo="https://www.tvchinese.net/uploads/tv/lanzhou.jpg" group-title="文化",兰州文化旅游频道
+https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
+#EXTINF:-1 tvg-chno="359" tvg-id="LiangshanTV.cn@SD" tvg-name="LiangshanTV" tvg-logo="https://www.tvchinese.net/uploads/tv/liangshantv.jpg" group-title="综合",凉山电视台
+http://118.122.2.29:9999/hls/47/index.m3u8
+#EXTINF:-1 tvg-chno="360" tvg-id="NanchangNewsGeneralistChannel.cn@SD" tvg-name="NanchangNewsGeneralistChannel" tvg-logo="https://www.tvchinese.net/uploads/tv/nctv1.jpg" group-title="综合",南昌新闻综合频道
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
+#EXTINF:-1 tvg-chno="361" tvg-id="NeiMonggolTV.cn@SD" tvg-name="NeiMonggolTV" tvg-logo="https://i.imgur.com/WeugJBE.png" group-title="综合",内蒙古卫视
+http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
+#EXTINF:-1 tvg-chno="362" tvg-id="NeiMonggolTV2MongolianCultureChannel.cn@SD" tvg-name="NeiMonggolTV2MongolianCultureChannel" tvg-logo="https://i.imgur.com/kpsjahG.png" group-title="卫视频道",内蒙古卫视蒙古语文化频道
+http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
+#EXTINF:-1 tvg-chno="363" tvg-id="PhoenixChinese.cn@HD" tvg-name="PhoenixChinese" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="其他频道",凤凰中文
+http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
+#EXTINF:-1 tvg-chno="364" tvg-id="PhoenixInfo.cn@HD" tvg-name="PhoenixInfo" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="其他频道",凤凰资讯
+http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-chno="365" tvg-id="PhoenixHongKong.cn@HD" tvg-name="PhoenixHongKong" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰香港.png" group-title="其他频道",凤凰香港
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk
+#EXTINF:-1 tvg-chno="366" tvg-id="GoldenEagleCartoon.cn@HD" tvg-name="GoldenEagleCartoon" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道",金鹰卡通
+http://101.66.199.102:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
